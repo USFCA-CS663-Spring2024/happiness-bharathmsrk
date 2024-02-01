@@ -7,3 +7,5 @@ This repository contains two (2) files:
 * Jupyter notebook is a skeleton for your implementation.
 
 Find assignment details on Canvas.
+
+Note - Overall Data Quality Evaluation and Answers at the end of the document.
